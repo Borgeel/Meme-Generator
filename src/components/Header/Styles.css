@@ -1,0 +1,27 @@
+.header {
+  height: 65px;
+  width: 100%;
+  background: linear-gradient(90deg, #672280 1.18%, #a426d1) 100%;
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  padding: 20px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.header--img {
+  height: 100%;
+  margin-right: 10px;
+}
+
+.header--title {
+  font-size: 1.25rem;
+  margin-right: auto;
+}
+
+.header--project {
+  font-size: 0.75rem;
+  font-weight: normal;
+}
